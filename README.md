@@ -1,5 +1,3 @@
-# 生活记录
-
 ## 台球
 * 2024.09.xx  
 [记台球](https://github.com/vbbbg/record/issues/1)
