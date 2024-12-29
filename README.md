@@ -4,6 +4,10 @@
   [浏览器页签拖拽动画](https://idwang.vercel.app/feature/tabs-order)  
   [源码](https://github.com/vbbbg/idwang/blob/main/app/feature/tabs-order/page.tsx#L351)
 
+* 以 [casetify](https://www.casetify.com/) 为原型，仿制了一个静态首页  
+  [Casetify_仿制首页_适配移动端](https://idwang.vercel.app/)  
+  [源码](https://github.com/vbbbg/idwang/blob/main/app/page.tsx)  
+
 ## 台球
 * 2024.09.xx  
 [记台球](https://github.com/vbbbg/record/issues/1)
