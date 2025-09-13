@@ -9,3 +9,6 @@
 [记台球4](./post/台球4.md)
 * 2025.06.09  
 [记台球5](./post/台球5.md)
+
+## other
+[和拿到结果的人学习](https://github.com/vbbbg/record/issues/3)
